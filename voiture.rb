@@ -9,7 +9,7 @@ class Voiture
 
 	
 	def rouler
-		puts "rouler"
+		puts "vrooooooooooooooooooom"
 	end
 
 	def arret
